@@ -1,0 +1,56 @@
+div{
+    border: 1px #444;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: forestgreen;
+    border-bottom: 10px grey;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #4CAF50;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #4CAF50;
+}
+.menu div{
+    background-color: #4CAF50;
+    border: 2px red;
+    font-size: 20px;
+    
+}
+.he-1{
+    width: 70%;
+    font-family:"Lucida Console", Monaco;
+}
+.he-2{
+    width: 20%;
+}
+.block-1{
+     width: 64%; 
+     background-color: #61c755;
+} 
+.block-2{
+    width: 30%;
+    background-color: #61c755;
+}
+.he-2 img{
+    width: 20%;
+}
+.block-2-2 img{
+    border: 2px red solid;
+    width: 42%;
+    margin: 10px;
+}
+.footer{
+    background-color:forestgreen; 
+}
